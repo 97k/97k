@@ -28,16 +28,16 @@ I'm a developer passionate about creating impactful solutions in the fitness and
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=97k&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=97k&theme=radical" alt="GitHub Streak" />
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=97k&color=blueviolet" alt="Profile views" />
 </p>

@@ -11,7 +11,7 @@ I'm a developer passionate about creating impactful solutions in the fitness and
 ### 🌐 Connect With Me
 [![Website](https://img.shields.io/badge/Website-techyaditya.xyz-blue?style=flat-square&logo=google-chrome)](https://techyaditya.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-@adiytakxco-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/adiytakxco)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/adityakxco)
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
